@@ -1,5 +1,5 @@
 // game commands for offline server
-exec "dojo\resource\serversettingsoffline.prac"
+exec "extra_configs\dojo\dojo\resource\serversettingsoffline.prac"
 
 echo
 echo
