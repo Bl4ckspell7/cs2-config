@@ -1,8 +1,8 @@
 //	Exec instant smokes files
-alias iancient "exec dojo\instant\instantancient.prac"
-alias imirage "exec dojo\instant\mirageexec.prac"
-alias ianubis "exec dojo\instant\anubisexec.prac"
-alias iinferno "exec dojo\instant\instantinferno.prac"
+alias iancient "exec extra_configs\dojo\dojo\instant\instantancient.prac"
+alias imirage "exec extra_configs\dojo\dojo\instant\mirageexec.prac"
+alias ianubis "exec extra_configs\dojo\dojo\instant\anubisexec.prac"
+alias iinferno "exec extra_configs\dojo\dojo\instant\instantinferno.prac"
 alias i1 ""
 alias i2 ""
 alias bplace "say_team Bot functions are available in freestyle mode. Write dojo in console to restart the config"
