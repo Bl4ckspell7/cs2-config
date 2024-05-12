@@ -2,6 +2,7 @@
 My Counter-Strike 2 config files.
 
 # Included Configs
+(execute manually)
 - Practise
 - 1v1
 - [instant smokes](https://github.com/craykos/cs2-dojo-config)
