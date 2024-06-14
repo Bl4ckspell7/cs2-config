@@ -1,0 +1,9 @@
+alias i1 "exec extra_configs\dojo\dojo\instant\mirage\instantmirage.prac"
+alias i2 "exec extra_configs\dojo\dojo\instant\mirage\instantmirage_con.prac"
+
+echo
+echo To practice 
+echo -Window instant smokes: write >>> i1
+echo -Con instant smokes: write >>> i2
+echo
+echo
