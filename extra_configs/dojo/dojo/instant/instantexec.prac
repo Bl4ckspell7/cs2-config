@@ -1,8 +1,8 @@
 //	Exec instant smokes files
-alias iancient "exec extra_configs\dojo\dojo\instant\instantancient.prac"
-alias imirage "exec extra_configs\dojo\dojo\instant\mirageexec.prac"
-alias ianubis "exec extra_configs\dojo\dojo\instant\anubisexec.prac"
-alias iinferno "exec extra_configs\dojo\dojo\instant\instantinferno.prac"
+alias anc "exec extra_configs\dojo\dojo\instant\ancient\ancientexec.prac"
+alias anu "exec extra_configs\dojo\dojo\instant\anubis\anubisexec.prac"
+alias inf "exec extra_configs\dojo\dojo\instant\inferno\instantinferno.prac"
+alias mir "exec extra_configs\dojo\dojo\instant\mirage\mirageexec.prac"
 alias i1 ""
 alias i2 ""
 alias bplace "say_team Bot functions are available in freestyle mode. Write dojo in console to restart the config"
@@ -11,9 +11,9 @@ alias togglebot "say_team Bot functions are available in freestyle mode. Write d
 
 echo
 echo Load instant smokes
-echo mirage _write>>> imirage
-echo ancient _write>>> iancient
-echo anubis _write>>> ianubis
-echo inferno _write>>> iinferno
+echo ancient: write >>> anc
+echo anubis: write >>> anu
+echo inferno: write >>> inf
+echo mirage: write >>> mir
 echo
 echo

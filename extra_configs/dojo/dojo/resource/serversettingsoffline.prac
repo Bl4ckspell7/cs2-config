@@ -5,13 +5,13 @@ sv_regeneration_force_on 1
 sv_falldamage_scale 0.0001
 sv_grenade_trajectory_prac_pipreview false
 sv_grenade_trajectory_prac_pipreview true
+sv_showimpacts 1
+sv_showimpacts_time 10
 bot_kick all
 bot_stop 1
 bot_freeze true
 sv_infinite_ammo 1
 mp_buy_anywhere 1
-sv_showimpacts 1
-sv_showimpacts_time 10
 mp_warmup_offline_enabled true
 mp_warmup_start
 mp_warmup_pausetimer 1

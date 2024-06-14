@@ -1,0 +1,9 @@
+alias i1 "exec extra_configs\dojo\dojo\instant\anubis\instantanubis_t.prac"
+alias i2 "exec extra_configs\dojo\dojo\instant\anubis\instantanubis_ct.prac"
+
+echo
+echo To practice 
+echo -T instant smokes: write >>> i1
+echo -CT instant smokes: write >>> i2
+echo
+echo
