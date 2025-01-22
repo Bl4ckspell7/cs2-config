@@ -17,7 +17,7 @@ echo
 
 //#########################################################################################################
 // Real Instant Smoke positions, instructions and video link
-alias instantancient1 "setpos_exact -192.000000 1696.000000 29.000000;setang_exact -18.984871 -51.401253 0.000000"
+alias instantancient1 "setpos_exact -192.000000 1696.000000 29.000000;setang_exact -20.129990 -51.038181 0.000000"
 alias instantancient1output "say_team #1 CT Instant Doors Smoke, walk until top/middle of green leaf + jumpthrow"
 alias instantancient1video "echo "
 
@@ -25,7 +25,7 @@ alias instantancient2 "setpos_exact -256.000122 1727.756104 29.000000;setang_exa
 alias instantancient2output "say_team #2 CT Instant Doors Smoke, walk until top/middle of green leaf + jumpthrow"
 alias instantancient2video "echo "
 
-alias instantancient3 "setpos_exact -352.000000 1728.000000 31.000000;setang_exact -15.653944 -51.785652 0.000000"
+alias instantancient3 "setpos_exact -352.000000 1728.000000 31.000000;setang_exact -15.257809 -51.389755 0.000000"
 alias instantancient3output "say_team #3 CT Instant Doors Smoke, walk until top of stone wall + jumpthrow"
 alias instantancient3video "echo "
 
