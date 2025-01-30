@@ -10,5 +10,5 @@ My Counter-Strike 2 config files.
 ## Directory
 - C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ## Steam Launch Options
-- +exec cs2_config.cfg
+`+exec cs2_config.cfg`
 
