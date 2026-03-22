@@ -27,3 +27,4 @@ user_keys_dev_default.vcfg
 perftest.cfg
 boot.vcfg
 sync.ffs_lock
+/devonly
