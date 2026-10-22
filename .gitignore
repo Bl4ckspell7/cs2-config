@@ -16,6 +16,8 @@ gamemode_demolition.cfg
 gamemode_dm_freeforall.cfg
 gamemode_new_user_training.cfg
 gamemode_retakecasual.cfg
+gamemode_rush_offline.cfg
+gamemode_rush.cfg
 gamemode_teamdeathmatch.cfg
 gamemode_tournament.cfg
 gamemode_workshop.cfg
